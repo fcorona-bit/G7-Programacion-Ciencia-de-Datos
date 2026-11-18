@@ -1,0 +1,20 @@
+
+# Archivos temporales de Python
+__pycache__/
+*.py[cod]
+
+# Entornos virtuales
+.venv/
+venv/
+env/
+
+# Archivos temporales de Jupyter Notebook
+.ipynb_checkpoints/
+
+# Configuraciones locales
+.vscode/
+.idea/
+
+# Variables de entorno y archivos privados
+.env
+.env.*
